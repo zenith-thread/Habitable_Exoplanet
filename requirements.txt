@@ -5,3 +5,4 @@ streamlit
 tensorflow
 tensorflow_intel
 scikit-learn
+openpyxl
